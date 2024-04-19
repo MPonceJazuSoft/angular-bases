@@ -34,5 +34,4 @@ export class HeroComponent {
     this.name = 'batman';
     this.age = 35;
   }
-
 }
